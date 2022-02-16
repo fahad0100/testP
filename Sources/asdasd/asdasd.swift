@@ -1,9 +1,5 @@
 import UIKit
-public struct asdasd {
-    public private(set) var text = "Hello, World!"
 
-    public init() {
-    }
     
    public class myView {
        public init() {
@@ -16,4 +12,4 @@ public struct asdasd {
         }
         
     }
-}
+
